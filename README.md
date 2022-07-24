@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiasdeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiasdeveloper&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Miq-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -21,6 +21,6 @@
   <a href = "mailto:miqueiasjohanb@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://t.me/RegularDev" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/miqueiasdev/miqueiasdev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/miqueiasdeveloper/miqueiasdeveloper/blob/output/github-contribution-grid-snake.svg)
  
 </div>
