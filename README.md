@@ -1,4 +1,4 @@
-## Opa, meu nome é Miquéias, sou só mais um gamer que adora programar. :)
+## Hi, the name's Miquéias, I'm just another gamer who likes to program. :)
 <div align="center">
   <a href="https://github.com/miqueiasdeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiasdeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
