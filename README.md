@@ -1,4 +1,4 @@
-## Hi, the name's Miquéias, I'm just another gamer who likes to program. :)
+## Opa, meu nome é Miquéias, sou apenas mais um entusiasta da programação apaixonado por tecnologia. :)
 <div align="center">
   <a href="https://github.com/miqueiasdeveloper">
 </div>
